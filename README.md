@@ -105,19 +105,3 @@ The script will produce a CSV file (`output_tabular.csv`) with the following con
 You can also run this script directly in Google Colab:
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/your-username/your-repo-name/blob/main/transform_soap_json_to_csv.py)
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Contributing
-
-Contributions are welcome! Please open an issue or submit a pull request for any improvements or bug fixes.
-
-## Acknowledgments
-
-- Thanks to the pandas library for simplifying data manipulation in Python.
-
----
-
-Feel free to customize this README to better fit your project's needs!
